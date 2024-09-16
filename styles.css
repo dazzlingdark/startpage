@@ -224,3 +224,14 @@ a#yags-link:focus-visible {
   color: var(--color-fg-base);
   text-decoration: underline;
 }
+
+#quote{
+  color: #EEEEEE;
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+  margin: 30px;
+  border: 2px solid ;
+  border-radius: 20px;
+  box-shadow: 6px 6px 1.2px -0.8px ;
+}
